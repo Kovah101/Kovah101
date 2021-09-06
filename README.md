@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovah101&label=Profile%20views&color=0e75b6&style=flat" alt="kovah101" /> </p>
 
-- 🔭 I’m currently working on [Tri-Tap-Toe](https://github.com/Kovah101/Tri-Taptical) &[Event Horizon](https://github.com/Kovah101/EventHorizon)
+- 🔭 I’m currently working on [Event Horizon](https://github.com/Kovah101/EventHorizon)
 
 - 🌱 I’m currently learning **Kotlin & Unity for mobile development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kovah101](https://github.com/Kovah101)
+
+- :raised_hands: Play Store Links:
+    - :space_invader: [Event Horizon](https://play.google.com/store/apps/details?id=com.github.kovah101.darkmatter)
+    - :dart: [Tri-Tap-Toe](https://play.google.com/store/apps/details?id=com.github.kovah101.tri_taptical)
 
 - ⚡ Fun fact **I'm a full time decathlete**
 
