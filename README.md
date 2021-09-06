@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovah101&label=Profile%20views&color=0e75b6&style=flat" alt="kovah101" /> </p>
 
-- 🔭 I’m currently working on [Tri-Tap-Toe](https://github.com/Kovah101/Tri-Taptical)
+- 🔭 I’m currently working on [Tri-Tap-Toe](https://github.com/Kovah101/Tri-Taptical) &[Event Horizon](https://github.com/Kovah101/EventHorizon)
 
 - 🌱 I’m currently learning **Kotlin & Unity for mobile development**
 
