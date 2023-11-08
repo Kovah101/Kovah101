@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Elliot Thompson</h1>
-<h3 align="center">A passionate self taught mobile developer from London</h3>
+<h3 align="center">A passionate self taught mobile developer from London, currently living it up in Vancouver, BC!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovah101&label=Profile%20views&color=0e75b6&style=flat" alt="kovah101" /> </p>
 
-- 🔭 I’m currently working on [Charge My Car](https://github.com/Kovah101/ChargeMyCar)
+- :page_facing_up: [Here's My Resume!](https://github.com/Kovah101/Kovah101/blob/main/Developer%20CV%20Resume.pdf)
 
-- 🌱 I’m currently learning **Kotlin & Unity for mobile development**
+- 🔭 I’m currently working on the beta release of my first Unity Mobile game: [Hold My Jell-O](https://github.com/Kovah101/Hold-My-Jell-O)
+
+- 🌱 I’m always learning **Kotlin - mobile, backend and multiplatform**
+  
+- :notebook: I'm currently learning **Unity for game development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kovah101](https://github.com/Kovah101)
 
 - :raised_hands: Play Store Links:
+    - :recycle: [Charge My Car](https://play.google.com/store/apps/details?id=com.github.kovah101.chargemycar)
     - :space_invader: [Event Horizon](https://play.google.com/store/apps/details?id=com.github.kovah101.darkmatter)
     - :dart: [Tri-Tap-Toe](https://play.google.com/store/apps/details?id=com.github.kovah101.tri_taptical)
 
