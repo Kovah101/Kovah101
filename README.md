@@ -5,7 +5,7 @@
 
 - :page_facing_up: [Here's My Resume!](https://github.com/Kovah101/Kovah101/blob/main/Developer%20CV%20Resume.pdf)
 
-- 🔭 I’m currently working on the beta release of my first Unity Mobile game: [Hold My Jell-O](https://github.com/Kovah101/Hold-My-Jell-O)
+- 🔭 I’m currently working on my second Unity Mobile game: :triangular_ruler: [Eulerian 2D](https://github.com/Kovah101/Eulerian-2D)
 
 - 🌱 I’m always learning **Kotlin - mobile, backend and multiplatform**
   
@@ -14,6 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Kovah101](https://github.com/Kovah101)
 
 - :raised_hands: Play Store Links:
+    - :point_right:🍮 [Hold My Jell-O](https://play.google.com/store/apps/details?id=com.HavokIndustries.HoldMyJellO)
     - :recycle: [Charge My Car](https://play.google.com/store/apps/details?id=com.github.kovah101.chargemycar)
     - :space_invader: [Event Horizon](https://play.google.com/store/apps/details?id=com.github.kovah101.darkmatter)
     - :dart: [Tri-Tap-Toe](https://play.google.com/store/apps/details?id=com.github.kovah101.tri_taptical)
