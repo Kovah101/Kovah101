@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Kovah101](https://github.com/Kovah101)
 
 - :raised_hands: Play Store Links:
-    - :point_right:🍮 [Hold My Jell-O](https://play.google.com/store/apps/details?id=com.HavokIndustries.HoldMyJellO)
+    - 🍮 [Hold My Jell-O](https://play.google.com/store/apps/details?id=com.HavokIndustries.HoldMyJellO)
     - :recycle: [Charge My Car](https://play.google.com/store/apps/details?id=com.github.kovah101.chargemycar)
     - :space_invader: [Event Horizon](https://play.google.com/store/apps/details?id=com.github.kovah101.darkmatter)
     - :dart: [Tri-Tap-Toe](https://play.google.com/store/apps/details?id=com.github.kovah101.tri_taptical)
