@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovah101&label=Profile%20views&color=0e75b6&style=flat" alt="kovah101" /> </p>
 
-- :page_facing_up: [Here's My Resume!](https://github.com/Kovah101/Kovah101/blob/main/Software%20Developer%20CV%20Resume%20Redacted.pdf)
+- :page_facing_up: [Here's My Resume!](https://github.com/Kovah101/Kovah101/blob/main/Android%20Developer%20CV%20Resume%20Redacted%20V1.pdf)
 
 - 🔭 I’m currently working on my second Unity Mobile game: :triangular_ruler: [Eulerian 2D](https://github.com/Kovah101/Eulerian-2D)
 
