@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovah101&label=Profile%20views&color=0e75b6&style=flat" alt="kovah101" /> </p>
 
-- :page_facing_up: [Here's My Resume!](https://github.com/Kovah101/Kovah101/blob/main/Android%20Developer%20CV%20Resume%20Redacted%20V1.pdf)
+- :page_facing_up: [Here's My Resume!]([https://github.com/Kovah101/Kovah101/blob/main/Android%20Developer%20CV%202026%20Redacted.pdf])
 
 - 🔭 I’m currently working on my second Unity Mobile game: :triangular_ruler: [Eulerian 2D](https://github.com/Kovah101/Eulerian-2D)
 
 - 🌱 I’m always learning **Kotlin - mobile, backend and multiplatform**
   
-- :notebook: I'm currently learning **Unity for game development**
+- :notebook: I'm currently learning **Unity & Godot for game development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kovah101](https://github.com/Kovah101)
 
