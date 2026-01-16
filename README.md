@@ -19,7 +19,7 @@
     - :space_invader: [Event Horizon](https://play.google.com/store/apps/details?id=com.github.kovah101.darkmatter)
     - :dart: [Tri-Tap-Toe](https://play.google.com/store/apps/details?id=com.github.kovah101.tri_taptical)
 
-- ⚡ Fun fact **I'm a full time decathlete**
+- ⚡ Fun fact **I'm a part-time decathlete and coach**
 
 
 <h3 align="left">Languages and Tools:</h3>
